@@ -1,11 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in My New Hugo Site on My New Hugo Site</description>
+    <title>Nathan Hubens on Nathan Hubens</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Nathan Hubens on Nathan Hubens</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://example.org/" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;Hi there !&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a joint PhD student in UMONS (Belgium) and Telecom SudParis (France) who discovered Machine Learning in 2017 throughout an internship in a start-up called Creaceed.&lt;/p&gt;
+&lt;p&gt;Since then, in addition to my engineering school, I took several MOOCS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deeplearning.ai by Andrew Ng&lt;/li&gt;
+&lt;li&gt;fast.ai by Jeremy Howard and Rachel Thomas that I now follow live&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more information, please take a look at my &lt;a href=&#34;../cv.pdf&#34;&gt;resume&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
