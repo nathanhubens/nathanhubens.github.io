@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan Hubens on Nathan Hubens</title>
-    <link>https://example.com/</link>
+    <link>https://nathanhubens.github.io/</link>
     <description>Recent content in Nathan Hubens on Nathan Hubens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nathanhubens.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://nathanhubens.github.io/about/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://nathanhubens.github.io/about/</guid>
       <description>&lt;p&gt;Hi there !&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m a joint PhD student in UMONS (Belgium) and Telecom SudParis (France) who discovered Machine Learning in 2017 throughout an internship in a start-up called Creaceed.&lt;/p&gt;
 &lt;p&gt;Since then, in addition to my engineering school, I took several MOOCS:&lt;/p&gt;
