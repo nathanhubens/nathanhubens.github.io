@@ -5,8 +5,42 @@
     <description>Recent content in Nathan Hubens on Nathan Hubens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nathanhubens.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research</title>
+      <link>https://nathanhubens.github.io/research/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathanhubens.github.io/research/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD Student based in Belgium. I am mostly interested in making neural networks smaller and faster ✂️&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N.&lt;/strong&gt; et al., “One-Cycle Pruning: Pruning ConvNets Under a Tight Training Budget”. In International Conference on Image Processing (ICIP), 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N.&lt;/strong&gt; et al., “FasterAI: A Lightweight Library for Creating Sparse Neural Networks”.In Sparsity in Neural Networks: Advancing Understanding and Practice (SNN), 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N.&lt;/strong&gt; et al., “Improve Convolutional Neural Network Pruning by Maximizing Filter Variety”. In Proceedings 21st International Conference on Image Analysis and Processing (ICIAP),2022.&lt;/li&gt;
+&lt;li&gt;Delvigne V., Tits N.,La Fisca L. , &lt;strong&gt;Hubens N.&lt;/strong&gt; , Maiorca A., Wannous H. , Dutoit T. , Vandeborre J.-P. “Where Is My Mind (looking at)? Predicting Visual Attention from Brain Activity”. In MDPI Informatics, 2022&lt;/li&gt;
+&lt;li&gt;Maiorca A., &lt;strong&gt;Hubens N.&lt;/strong&gt;, Laraba S., Dutoit T., “Towards Lightweight Neural Animation : Exploration of Neural Network Pruning in Mixture of Experts-based Animation Models”. In Proceedings of the 17th International Conference on Computer Graphics Theory and Applications (GRAPP), 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N.&lt;/strong&gt; et al., “Fake-Buster: A Lightweight Solution for Deepfake Detection”. In Proceedings of SPIE Optical Engineering + Applications (SPIE), 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N. et al.&lt;/strong&gt;, “One-Cycle Pruning: Pruning ConvNets Under a Tight Training Budget”. In Sparsity in Neural Networks: Advancing Understanding and Practice (SNN), 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hubens N.&lt;/strong&gt; et al., “An Experimental Study of the Impact of Pre-Training on the Pruning of a Con- volutional Neural Network”. In Proceedings of the 3rd International Conference on Applications of Intelligent Systems (APPIS), 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Delbroucq J.B., &lt;strong&gt;Hubens N.&lt;/strong&gt;, Maiorca A., Dupont S., “Modulated Self-attention Convolutional Net- work for VQA”. In NeurIPS Workshop on Visually-Grounded Interaction and Language (ViGIL), 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
