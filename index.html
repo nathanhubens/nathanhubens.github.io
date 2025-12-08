@@ -62,25 +62,27 @@
 
     /* Contact button INSIDE the card */
     .contact-btn {
-    position: absolute;
-    top: 16px;
-    right: 16px;
-    padding: 5px 12px;
-    background: linear-gradient(45deg, var(--accent), var(--accent-2));
-    color: #0b0c10;
-    font-weight: 600;
-    border-radius: 999px;
-    text-decoration: none;
-    box-shadow: var(--shadow);
-    border: 1px solid rgba(255,255,255,0.1);
-    transition: transform .15s ease, box-shadow .15s ease;
-    font-size: 13px;
-    z-index: 10;
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      padding: 6px 14px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      background-origin: border-box;
+      color: #0b0c10;
+      font-weight: 600;
+      border-radius: 999px;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      border: 1px solid rgba(255,255,255,0.1);
+      transition: transform .15s ease, box-shadow .15s ease;
+      font-size: 13px;
+      z-index: 10;
+      display: inline-block;
     }
 
     .contact-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(0,0,0,.25);
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.4);
     }
 
     @media (max-width: 640px) {
